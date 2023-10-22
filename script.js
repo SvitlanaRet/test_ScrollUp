@@ -25,3 +25,5 @@ function smoothScrollToTop() {
         window.scrollTo(0, currentScroll - currentScroll / 20);
     }
 }
+
+// dfgr
